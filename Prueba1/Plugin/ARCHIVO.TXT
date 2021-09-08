@@ -1,0 +1,1 @@
+un plugin son herramientas que permiten extender funcionalidad modificar o elminar y va de la mano con la etc/di.xml

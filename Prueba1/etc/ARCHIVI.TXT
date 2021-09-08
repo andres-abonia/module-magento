@@ -1,0 +1,1 @@
+etc:(minuscula) es la mas importante porque alli es donde va el archivo para la declaracion del modulo (module.xml) y en ella van todas las configuraciones  del modulo ej: las sobre-escritura y plugin( otras  funciones)

@@ -1,0 +1,1 @@
+Es esta carpeta es donde ponemos una herramienta para gestionar con mas agilidad las peticiones http del controlador

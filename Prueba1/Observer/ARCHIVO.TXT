@@ -1,0 +1,1 @@
+Tiene observadores los cuales capturan eventos por ejemplo un nuevo cliente registrado va de la mano con etc/event.xml

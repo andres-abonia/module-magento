@@ -1,0 +1,1 @@
+esta carpeta tiene que ver con todo lo referente al primer escenario que se enfrenta el modulo el cual es  la instalacion desde aqui se afecta directamente la base de datos
